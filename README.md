@@ -27,3 +27,7 @@ A relay helper is a small program you install on a PC or a cloud machine and reg
 ## Feedback
 
 Numbers in the sizing guide are planning estimates until we publish our own load-test results. If you measure something different, please open an issue with your hardware and results.
+
+## Licence
+
+Apache License 2.0. See [LICENSE](LICENSE). Copyright 2026 People Maketh.
